@@ -31,6 +31,7 @@ words = [
     "アーロン・シュワルツ",
     "トップスピードで没頭する",
     "自分を操れ",
+    "守・破・離",
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
