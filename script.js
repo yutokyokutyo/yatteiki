@@ -32,6 +32,8 @@ words = [
     "トップスピードで没頭する",
     "自分を操れ",
     "守・破・離",
+    "安請け合いは絶対にしない。<br>見積もりの時間をもらってロケットスタートで8割終わらす。<br>締め切りは絶対に守らないといけない",
+    "ラストスパート思考は絶対悪",
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
