@@ -37,6 +37,7 @@ words = [
     "住む世界が違うと切り分ける",
     "足を引っ張るやつとはできるだけ関わらない",
     "モチベーションは雑な自己啓発本を読むと回復する",
+    "完璧を目指すよりまず終わらせろ<br>Done is better than perfect.",
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
