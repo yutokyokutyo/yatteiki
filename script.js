@@ -40,6 +40,7 @@ words = [
     "完璧を目指すよりまず終わらせろ<br>Done is better than perfect.",
     "後回しにするといつのまにかネガティブスパイラルに陥り疲弊する。自己嫌悪になる。<br>何気ない後回しが首を締めることを忘れないこと",
     "一人前になるまでは予定はできるだけいれない！",
+    "克己心",
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
