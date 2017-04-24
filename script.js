@@ -44,6 +44,7 @@ words = [
     "克己心",
     "自分を守るという理由でやってないアクションは全部やっていこう。さらけ出していこう。",
     "問題から目を背けずに立ち向かうことが勇気",
+    "闇雲 ×時間経過 = 何が何だか分からない -> 現実逃避",
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
