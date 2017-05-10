@@ -47,6 +47,7 @@ words = [
     "闇雲 ×時間経過 = 何が何だか分からない -> 現実逃避",
     "落ち込むなんておこがましい。自分がそんなにできるなんて期待してない。by さんま",
     "うん。じゃあどうするの？",
+    "ネガティブ=無駄<br>ポジティブ=最強",
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
