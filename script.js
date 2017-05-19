@@ -48,6 +48,8 @@ words = [
     "落ち込むなんておこがましい。自分がそんなにできるなんて期待してない。by さんま",
     "うん。じゃあどうするの？",
     "ネガティブ=無駄<br>ポジティブ=最強",
+    "NOTHING IS A MISTAKE. THERE'S NO WIN AND NO FAIL. THERE'S ONLY MAKE!",
+    "THE ONLY WAY TO DO IT IS TO DO IT!"
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
