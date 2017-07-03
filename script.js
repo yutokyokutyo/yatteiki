@@ -32,7 +32,8 @@ words = [
     "克己心",
     "自分を守るという理由でやれていないアクションは全部やっていこう<br>さらけ出せ",
     "NOTHING IS A MISTAKE. THERE'S NO WIN AND NO FAIL. THERE'S ONLY MAKE!",
-    "THE ONLY WAY TO DO IT IS TO DO IT!"
+    "THE ONLY WAY TO DO IT IS TO DO IT!",
+    "やりたいことをやるためにやらなきゃいけないことを亜光速で終わらせる"
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
