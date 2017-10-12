@@ -34,7 +34,8 @@ words = [
     "NOTHING IS A MISTAKE. THERE'S NO WIN AND NO FAIL. THERE'S ONLY MAKE!",
     "THE ONLY WAY TO DO IT IS TO DO IT!",
     "やりたいことをやるためにやらなきゃいけないことを亜光速で終わらせる",
-    "さっぱり分からないときはまず全体像が掴めるように行動しよう"
+    "さっぱり分からないときはまず全体像が掴めるように行動しよう",
+    "選択に迫られたとき、自分の周りの人たちを幸せにできる一番賢いと思う選択肢を選び決定し実行する！"
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
