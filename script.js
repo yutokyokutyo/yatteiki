@@ -45,7 +45,8 @@ words = [
     "意見を言えないやつにだけはなるな！",
     "脳みそ骨折するくらい考え続けろ",
     "いつもより一歩だけ深く考える",
-    "「H」humility（謙虚），「R」respect（尊敬），「T」trust（信頼）"
+    "最近どう？<br>明確に応えられたらそれはいい状態",
+    "「H」humility（謙虚）<br>「R」respect（尊敬）<br>「T」trust（信頼）"
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
