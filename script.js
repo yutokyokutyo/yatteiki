@@ -46,6 +46,8 @@ words = [
     "脳みそ骨折するくらい考え続けろ",
     "いつもより一歩だけ深く考える",
     "最近どう？<br>明確に応えられたらそれはいい状態",
+    "それは恐怖による選択？<br>それとも愛による選択？",
+    "に〜っ！笑顔！＼(^o^)／",
     "「H」humility（謙虚）<br>「R」respect（尊敬）<br>「T」trust（信頼）"
 ]
 var word = words[Math.floor(Math.random() * words.length)];
