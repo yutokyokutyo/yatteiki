@@ -54,7 +54,9 @@ words = [
     "面倒くさいと思うそのときこそ一番大事な瞬間",
     "楽して最小のリソースで最大の効果",
     "ふりかえりのActionできてる？",
-    "「H」humility（謙虚）<br>「R」respect（尊敬）<br>「T」trust（信頼）"
+    "「H」humility（謙虚）<br>「R」respect（尊敬）<br>「T」trust（信頼）",
+    "今ここにない未来は、自分で作る",
+    "未来を予測する最高の方法は、自ら未来を創造することだ"
 ]
 var word = words[Math.floor(Math.random() * words.length)];
 document.getElementById('word')
