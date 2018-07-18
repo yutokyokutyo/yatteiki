@@ -56,6 +56,8 @@ words = [
     "ふりかえりのActionできてる？",
     "「H」humility（謙虚）<br>「R」respect（尊敬）<br>「T」trust（信頼）",
     "今ここにない未来は、自分で作る",
+    "視座を高めて人間的に大きくなることで<br>目の前の問題が問題ではなくなることがある",
+    "僅かな勇気が本物の魔法<br>その一歩で世界を変えろ",
     "未来を予測する最高の方法は、自ら未来を創造することだ"
 ]
 var word = words[Math.floor(Math.random() * words.length)];
