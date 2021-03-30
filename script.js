@@ -31,7 +31,7 @@ words = [
     "自分の人生に責任を持つ<br>やりたいことをやる。<br>その人生を楽しくするのもつまらなくするのも自分次第",
     "克己心",
     "自分を守るという理由でやれていないアクションは全部やっていこう<br>さらけ出せ",
-    "NOTHING IS A MISTAKE. THERE'S NO WIN AND NO FAIL. THERE'S ONLY MAKE!",
+    "NOTHING IS A MISTAKE.<br>THERE'S NO WIN AND NO FAIL.<br>THERE'S ONLY MAKE!",
     "THE ONLY WAY TO DO IT IS TO DO IT!",
     "やりたいことをやるためにやらなきゃいけないことを亜光速で終わらせる",
     "さっぱり分からないときはまず全体像が掴めるように行動しよう",
